@@ -67,7 +67,7 @@ You can change the ports and IP addresses by modifying the following variables i
 
 ## Results
 
-The following pictures were while running the program:
+The following pictures were taken while running the program:
 
 - **Figure 1**: Multi Drone - Sending Control Commands
   ![Control Commands](./SS/sendControlCommands.png)
