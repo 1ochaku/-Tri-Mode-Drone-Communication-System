@@ -64,3 +64,14 @@ You can change the ports and IP addresses by modifying the following variables i
 - **Control Port**: The port used for sending/receiving control commands (UDP).
 - **Telemetry Port**: The port used for telemetry data (TCP).
 - **File Transfer Port**: The port used for transferring files (TCP).
+
+## Results
+
+The following pictures were while running the program:
+
+- **Figure 1**: Multi Drone - Sending Control Commands
+  ![Control Commands](./SS/sendControlCommands.png)
+- **Figure 2**: Multi Drone - Telemetry Data Received
+  ![Telemetry Data](./SS/receiveTelemetryData.png)
+- **Figure 3**: Multi Drone - File Transfer
+  ![File Transfer](./SS/receiveLargeFile.png)
