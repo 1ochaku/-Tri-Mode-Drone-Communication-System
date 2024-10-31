@@ -1,0 +1,21 @@
+- Monitoring and Control System for autonomous drones
+- System supports 3 types of communication:
+	- Control Commands (UDP) 
+		Central server to drones
+		Minimal delay	
+	- Telemetry Data (TCP)
+		Drone to server
+		Location, speed, status
+		Data must be reliable and delivered
+		In order delivery
+	- File Transfers (QUIC)
+		Send large files
+		Require protocol
+		Low latency and high reliability
+		example QUIC
+OBJECTIVE: Client and server application with 3 mode of communication
+- since multiple drones => unique identifier
+
+
+
+		
